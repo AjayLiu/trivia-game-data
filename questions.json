@@ -13,7 +13,12 @@
         {
             "question": "Who was the 4th President of the United States?",
             "choices": ["John Quincy Adams", "John Adams", "Thomas Jefferson"],
-            "answer": "James Madison"
+            "answer": "James Madison"            
+        },
+        { 
+            "question": "Which of these is a mammal?",
+            "choices": ["ant","frog", "shark"],
+            "answer": "dolphin" 
         }
     ]
 }
